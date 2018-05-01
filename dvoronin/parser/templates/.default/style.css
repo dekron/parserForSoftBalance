@@ -1,0 +1,18 @@
+.parser-form {
+  padding: 30px;
+
+}
+.parser-form__input{
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+.parser-form__log-place{
+  margin-top: 10px;
+}
+
+.parser-form__log{
+  overflow-x:hidden;
+  overflow-y:visible;
+  height:300px;
+  font-size: 14px;
+}
