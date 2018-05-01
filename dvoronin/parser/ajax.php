@@ -56,7 +56,6 @@ switch ($_REQUEST['type']) {
         }
         //добавляем сам элемент с id свойств
         $component->addElToIB($ib_id, $data['id'], $props);
-        echo json_encode($props);
         break;
 }
 
